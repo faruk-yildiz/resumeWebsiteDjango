@@ -1,3 +1,3 @@
 # Basic Resume Website 
-This project is created with [Dennis Ivy](https://github.com/divanov11).
+Bu proje [Dennis Ivy](https://github.com/divanov11) youtube kanalındaki video ile hazırlanmıştır.
 
